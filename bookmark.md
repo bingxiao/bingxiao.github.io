@@ -1,6 +1,8 @@
-Public Bookmarks
-================
-Personal use first.
+---
+layout: page
+title: Bookmarks
+permalink: /bookmarks/
+---
 
 
 ## Temp reads:

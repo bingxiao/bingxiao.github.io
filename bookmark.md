@@ -109,6 +109,11 @@ short names:
 
 [git](http://schacon.github.io/git/user-manual.html) |
 
+## Disk images
+
+[FreeBSD](ftp://ftp.cn.freebsd.org/pub/FreeBSD/releases/ISO-IMAGES/10.1/)
+
+
 ## Network services
 
 [jQuery source](http://jquery.com/download/) - <git://github.com/jquery/jquery.git>
@@ -144,6 +149,8 @@ short names:
 
 
 ## Challenges
+
+[LeetCode](https://leetcode.com/problemset/algorithms/)
 
 [Kaggle competitions](https://www.kaggle.com/competitions) - predictive modeling competitions
 
